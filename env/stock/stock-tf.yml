@@ -1,0 +1,17 @@
+name: stock-tf
+
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip=22.3
+  - pip:
+    - opencv-python==4.5.5.64
+    - tensorflow==2.13.0
+    - python-multipart==0.0.6
+    - uvicorn==0.23.2
+    - fastapi==0.103.1
+    - pandas==2.1.0
+    - tensorflow-hub==0.14.0
+    - streamlit
+    - streamlit-lottie

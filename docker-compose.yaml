@@ -1,0 +1,21 @@
+services:
+  frontend:
+    name: frontend
+    build: 
+      context: .
+      dockerfile: ./docker/frontend/Dockerfile
+    ports: 
+      - '8501:8501'
+    restart: always
+    depends-on: backend
+    network_mode: bridge
+
+  backend:
+    name: backend
+    build: 
+      context: .
+      dockerfile: ./docker/backend/Dockerfile
+    ports:
+      - '8000:8000'
+    restart: always
+    network_mode: bridge
