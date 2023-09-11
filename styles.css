@@ -1,0 +1,21 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+}
+.stApp {
+    padding: 20px;
+    background: linear-gradient(to bottom, #0F0C29, #302B63);
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    
+}
+.css-1erivf3 {
+    background: linear-gradient(to bottom, #0F0C29 0%, #584aef 100%);
+    color: #FFFFFF; /* Text color */
+    font-family: Arial, sans-serif; /* Font family for text inside the div */
+}
+
+.element.style {
+    background-image: linear-gradient(135deg, #ff8c00, #efd293);
+}
