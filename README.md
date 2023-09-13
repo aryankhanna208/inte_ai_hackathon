@@ -10,6 +10,11 @@
 - **🧠 Deep Learning:** Utilizes Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) models for accurate predictions.
 - **🚀 Intel Optimization:** Optimized using Intel oneAPI libraries for efficient performance on Intel hardware.
 
+## 🌐 Intel AI Reference kits Used:
+1. Disease Prediction Using NLP (https://www.intel.com/content/www/us/en/developer/articles/reference-kit/disease-prediction.html)
+2. Medical Imaging Diagnostics Using Computer Vision (https://www.intel.com/content/www/us/en/developer/articles/reference-kit/medical-imaging-diagnostics.html)
+
+
 ## 🌐 Frontend (Streamlit)
 The frontend of this tool is built using Streamlit, a user-friendly Python library for creating web applications. Users can interact with the AI models through a web-based interface.
 
