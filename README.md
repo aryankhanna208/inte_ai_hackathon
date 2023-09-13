@@ -13,6 +13,7 @@
 ## 🌐 Intel AI Reference kits Used:
 1. Disease Prediction Using NLP (https://www.intel.com/content/www/us/en/developer/articles/reference-kit/disease-prediction.html)
 2. Medical Imaging Diagnostics Using Computer Vision (https://www.intel.com/content/www/us/en/developer/articles/reference-kit/medical-imaging-diagnostics.html)
+3. Image Data Generation (https://www.intel.com/content/www/us/en/developer/articles/reference-kit/image-data-generation.html)
 
 
 ## 🌐 Frontend (Streamlit)
